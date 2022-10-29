@@ -3,7 +3,7 @@ export const initialState = {
   todos: [
     {
       id: 1,
-      text: "Item1",
+      text: "One",
     }
   
   ],
